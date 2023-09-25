@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.blue),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'Kingsley Week 5'),
+      home: const MyHomePage(title: 'Week 6 Git'),
     );
   }
 }
